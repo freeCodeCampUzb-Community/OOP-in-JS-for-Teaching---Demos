@@ -5,6 +5,7 @@ const player1 = {
     play: function(){
         if (this.isTurn) {
           return player1['name'] + ' is now playing!'
+            // return player1.name ....
         }
     }
 }
